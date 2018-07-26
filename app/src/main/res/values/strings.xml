@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">DialogPracticeApp</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="must_implement">must implement OnFragmentInteractionListener</string>
+    <string name="hello_world">Hello World!</string>
+    <string name="simple_dialog">Simple Dialog</string>
+    <string name="simple_dialog_message">Do you want to Continue?</string>
+    <string name="simple_dialog_title">Attention!!!</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="multiple_choice_title">Choose all that apply</string>
+    <string name="multiple_choice_dialog">Multiple Choice Dialog</string>
+    <string name="single_choice_dialog">Single Choice Dialog</string>
+    <string name="done">Done</string>
+    <string name="cancel">Cancel</string>
+    <string name="custom_layout_dialog">Custom Layout Dialog</string>
+    <string name="pick_date">Pick Date</string>
+    <string name="pick_time">Pick Time</string>
+    <string-array name="choices">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+</resources>
